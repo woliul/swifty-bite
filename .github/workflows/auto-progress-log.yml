@@ -5,6 +5,9 @@ on:
     - cron: '0 9 * * 1'  # Every Monday at 9 AM UTC
   workflow_dispatch:
 
+permissions:
+  issues: write  # <-- This is required to create issues
+
 jobs:
   create-issue:
     runs-on: ubuntu-latest
