@@ -1,6 +1,6 @@
 name: 📘 Weekly Progress Log
 description: Log what I learned, built, and plan next.
-title: "[Progress] Week X: Title"
+title: "[Progress] Week ##: e.g. SwiftUI Basics"
 labels: ["progress", "weekly"]
 
 body:
