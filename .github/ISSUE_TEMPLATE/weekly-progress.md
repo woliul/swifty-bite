@@ -1,10 +1,8 @@
----
 name: 📘 Weekly Progress Log
 description: Log what I learned, built, and plan next.
 title: "[Progress] Week X: Title"
 labels: ["progress", "weekly"]
 
----
 body:
   - type: input
     id: date
