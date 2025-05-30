@@ -27,7 +27,8 @@ Each month includes weekly learning tasks, projects, and outcomes:
 - [Month 4: APIs + Async](roadmap/month-04.md)
 - [Month 5: Final Project](roadmap/month-05.md)
 - [Month 6: Interview + Portfolio](roadmap/month-06.md)
-- 📚 See my complete [Learning Path](./learning-path.md)
+
+📚 See my complete [Learning Path](./learning-path.md)
 
 
 ---
