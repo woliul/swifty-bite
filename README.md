@@ -1,45 +1,58 @@
 # SwiftyBite 🐦🍏
 
-Welcome to **SwiftyBite** — where I’m taking bite-sized chunks out of learning Swift and iOS development! This repo is my personal journey to become a confident Apple developer, packed with my roadmap, projects, notes, and interview prep.
+**Your Swift/iOS developer journey, one bite at a time.**
 
-Whether you’re starting fresh or looking to sharpen your skills, feel free to explore and maybe get inspired. Let’s learn Swift, one bite at a time! 🚀
+Welcome to **SwiftyBite** — a structured 6-month journey to become a confident, job-ready Apple developer. Inside you'll find:
+
+- A clear month-by-month learning roadmap
+- Weekly breakdowns of goals and tasks
+- Projects, resources, and interview prep
+- My personal progress as a learner
 
 ---
 
-## Table of Contents
+## 🧭 Goals
 
-### Month 1: Basics & Swift Fundamentals
-- [Week 1: Introduction to Swift](#week-1-introduction-to-swift)  
-- [Week 2: Swift Syntax & Control Flow](#week-2-swift-syntax--control-flow)  
-- [Week 3: Functions, Closures & Optionals](#week-3-functions-closures--optionals)  
-- [Week 4: Collections & Error Handling](#week-4-collections--error-handling)  
+Check out [GOALS.md](GOALS.md) for a full breakdown of skills I aim to master and my motivation for this journey.
 
-### Month 2: UIKit + Swift Fundamentals Deep Dive
-- [Week 1: UIKit Basics (Views, ViewControllers)](#week-1-uikit-basics-views-viewcontrollers)  
-- [Week 2: AutoLayout & Storyboards](#week-2-autolayout--storyboards)  
-- [Week 3: Navigation Controllers & TableViews](#week-3-navigation-controllers--tableviews)  
-- [Week 4: Networking Basics & Git Practice](#week-4-networking-basics--git-practice)  
+---
 
-### Month 3: SwiftUI Bootcamp
-- [Week 1: SwiftUI Basics (Views, Modifiers, Stacks)](#week-1-swiftui-basics-views-modifiers-stacks)  
-- [Week 2: State Management (@State, @Binding)](#week-2-state-management-statestate-binding)  
-- [Week 3: Navigation & Reusable Components](#week-3-navigation--reusable-components)  
-- [Week 4: Animations & Polishing](#week-4-animations--polishing)  
+## 📆 Roadmap
 
-### Month 4: Networking + Data + Async
-- [Week 1: API Basics & Async/Await](#week-1-api-basics--asyncawait)  
-- [Week 2: JSON Decoding & Error Handling](#week-2-json-decoding--error-handling)  
-- [Week 3: Local Data Storage (UserDefaults & CoreData)](#week-3-local-data-storage-userdefaults--coredata)  
-- [Week 4: Wrap-up & Refactor Projects](#week-4-wrap-up--refactor-projects)  
+Each month includes weekly learning tasks, projects, and outcomes:
 
-### Month 5: Final Project + App Store Prep
-- [Week 1: Final App Planning & Setup](#week-1-final-app-planning--setup)  
-- [Week 2: Core Logic & Data Implementation](#week-2-core-logic--data-implementation)  
-- [Week 3: UI Polish & Error Handling](#week-3-ui-polish--error-handling)  
-- [Week 4: Testing & Publishing](#week-4-testing--publishing)  
+- [Month 1: Swift Fundamentals](roadmap/month-01.md)
+- [Month 2: UIKit & Layout](roadmap/month-02.md)
+- [Month 3: SwiftUI Basics](roadmap/month-03.md)
+- [Month 4: APIs + Async](roadmap/month-04.md)
+- [Month 5: Final Project](roadmap/month-05.md)
+- [Month 6: Interview + Portfolio](roadmap/month-06.md)
+- 📚 See my complete [Learning Path](./learning-path.md)
 
-### Month 6: Job Hunting, Interview Prep & Freelance
-- [Week 1: Portfolio & Resume Polish](#week-1-portfolio--resume-polish)  
-- [Week 2: Interview Preparation](#week-2-interview-preparation)  
-- [Week 3: Job Applications & Freelance Setup](#week-3-job-applications--freelance-setup)  
-- [Week 4: Real-World Practice & Continued Learning](#week-4-real-world-practice--continued-learning)  
+
+---
+
+## 🚀 Projects
+
+See `/projects` for apps I'm building along the way.
+
+- [To-Do App](projects/to-do-app/)
+- [Weather App](projects/weather-app/)
+- [Final App](projects/final-app/)
+
+---
+
+## 📚 Notes & Resources
+
+- [Helpful Links & Tutorials](RESOURCES.md)
+- [SwiftUI vs UIKit Comparison](notes/swiftui-vs-uikit.md)
+- [MVVM Architecture Explained](notes/mvvm-pattern.md)
+
+---
+
+## 💼 Interview Prep
+
+I'm preparing for real-world job interviews with:
+
+- [iOS Interview Questions](interview-prep/ios-questions.md)
+- [Swift Coding Challenges](interview-prep/swift-coding-challenges.md)
