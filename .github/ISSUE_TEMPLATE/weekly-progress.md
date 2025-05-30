@@ -1,30 +1,28 @@
+---
 name: 📘 Weekly Progress Log
-description: Track this week’s learning & coding
-title: "[Progress] Week X: "
+description: Log what I learned, built, and plan next.
+title: "[Progress] Week X: Title"
 labels: ["progress", "weekly"]
+
+---
 body:
-  - type: input
-    id: week
-    attributes:
-      label: Week #
-      placeholder: e.g., Week 10
   - type: input
     id: date
     attributes:
       label: Date Range
-      placeholder: e.g., June 1 – June 7
+      placeholder: e.g., May 30 – June 6
   - type: textarea
     id: learned
     attributes:
       label: ✅ What I Learned
-      placeholder: Topics, concepts, etc.
+      description: Summarize concepts, topics, etc.
   - type: textarea
     id: built
     attributes:
       label: 🔧 What I Built
-      placeholder: Projects, code, links
+      description: Mention any apps, playgrounds, commits
   - type: textarea
     id: next
     attributes:
-      label: 🎯 What’s Next
-      placeholder: Topics or tasks for next week
+      label: 🎯 What's Next
+      description: Set goals or topics for next week
