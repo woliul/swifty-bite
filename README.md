@@ -97,7 +97,7 @@ Future sections will include: data structures, whiteboarding, and behavior quest
 
 This project uses modern tools and workflows across iOS development and GitHub automation:
 
-- **Languages**: Swift 5.8
+- **Languages**: Swift 6.1
 - **Frameworks**: SwiftUI, UIKit, Combine
 - **Architecture**: MVVM
 - **Tooling**: Xcode, GitHub Actions
