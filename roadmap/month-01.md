@@ -6,6 +6,7 @@
 * Get comfortable with Xcode and UIKit basics
 * Build your first 2 simple apps
 
+---
 ### Week 1 Introduction to Swift
 
 - **Work Days (Windows):**
@@ -20,6 +21,7 @@
   * Create your first Xcode project: “Hello Swift” app
   * Explore playgrounds and Xcode UI
 
+---
 ### Week 2: Swift Syntax & Control Flow
 
 - **Work Days (Windows):**
@@ -34,6 +36,7 @@
     * Focus: Inputs, Buttons, Labels
   * Play with AutoLayout and Stack Views
 
+---
 ### Week 3: Functions, Closures & Optionals
 
 - **Work Days (Windows):**
@@ -47,6 +50,7 @@
     * Focus: Segmented controls, Input, Display output
   * Try creating a simple GitHub repo & push code
 
+---
 ### Week 4: Collections & Error Handling
 
 - **Work Days (Windows):**
@@ -62,7 +66,7 @@
   * Review everything from Week 1–4
   * Write a small blog post or notes recap
 
-
+---
 ## 🧾 End of Month 1 Summary:
 
 - ✔️ You know Swift basics: types, logic, functions, OOP
