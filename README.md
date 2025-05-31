@@ -92,7 +92,7 @@ This project uses modern tools and workflows across iOS development and GitHub a
 - **Practices**: Git flow, pull request templates, CI/CD
 
 
-## 📌 Contribution & Git Standards
+## 🙌 Contribution & Git Standards
 
 This repo follows professional in-house Git practices:
 
@@ -117,5 +117,10 @@ Want to collaborate or share ideas? [Start a discussion](https://github.com/woli
 - 🛠️ [Support & Help](SUPPORT.md)
 - 🔐 [Security Policy](SECURITY.md)
 
+## ⚖️ License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+© 2025 [Woliul Hasan](https://github.com/woliul) – All rights reserved.
 
 
