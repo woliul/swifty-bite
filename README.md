@@ -1,16 +1,20 @@
-# SwiftyBite 🐦🍏 [![Git Standards](https://img.shields.io/badge/Git%20Workflow-Professional-blue)](./CONTRIBUTING.md) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/woliul/swifty-bite/ci.yml?branch=main&label=CI)](https://github.com/woliul/swifty-bite/actions) [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](https://developer.apple.com/swift/) [![Swift Version](https://img.shields.io/badge/Swift-5.8-orange.svg)](https://swift.org) [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20iPadOS%20%7C%20macOS%20%7C%20watchOS%20%7C%20tvOS%20%7C%20visionOS-blue.svg)](https://developer.apple.com)
-
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
-[![UIKit Ready](https://img.shields.io/badge/UIKit-Ready-blue.svg)](https://developer.apple.com/documentation/uikit)
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-Implemented-brightgreen.svg)](https://developer.apple.com/xcode/swiftui/)
-[![Code of Conduct](https://img.shields.io/badge/Conduct-Contributor%20Covenant-brightgreen)](CODE_OF_CONDUCT.md)
-[![Security](https://img.shields.io/badge/Security-Policy-important)](SECURITY.md)
-[![Support](https://img.shields.io/badge/Support-Get%20Help-blueviolet)](SUPPORT.md)
+# SwiftyBite 🐦🍏 [![Git Standards](https://img.shields.io/badge/Git%20Workflow-Professional-blue)](./CONTRIBUTING.md) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/woliul/swifty-bite/ci.yml?branch=main&label=CI)](https://github.com/woliul/swifty-bite/actions) [![Swift Version](https://img.shields.io/badge/Swift-6.1-079404.svg)](https://swift.org)
 
 [![Repo Size](https://img.shields.io/github/repo-size/woliul/swifty-bite)](https://github.com/woliul/swifty-bite)
 [![Last Commit](https://img.shields.io/github/last-commit/woliul/swifty-bite)](https://github.com/woliul/swifty-bite/commits/main)
 [![Issues](https://img.shields.io/github/issues/woliul/swifty-bite)](https://github.com/woliul/swifty-bite/issues)
 [![Stars](https://img.shields.io/github/stars/woliul/swifty-bite)](https://github.com/woliul/swifty-bite/stargazers)
+
+[![License](https://img.shields.io/badge/License-MIT-079404.svg)](./LICENSE)
+[![Code of Conduct](https://img.shields.io/badge/Conduct-Contributor%20Covenant-079404)](CODE_OF_CONDUCT.md)
+[![Security](https://img.shields.io/badge/Security-Policy-important)](SECURITY.md)
+[![Support](https://img.shields.io/badge/Support-Get%20Help-blueviolet)](SUPPORT.md)
+
+[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-Implemented-079404.svg)](https://developer.apple.com/xcode/swiftui/)
+[![UIKit Ready](https://img.shields.io/badge/UIKit-Ready-blue.svg)](https://developer.apple.com/documentation/uikit)
+[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20iPadOS%20%7C%20macOS%20%7C%20watchOS%20%7C%20tvOS%20%7C%20visionOS-blue.svg)](https://developer.apple.com)
+
 
 **My Swift/iOS developer journey, one bite at a time.**
 
