@@ -9,7 +9,7 @@
 
 ---
 
-### ✅ Week 1: Final App Planning + Setup
+### Week 1: Final App Planning & Setup
 
 **Work Days (Windows):**
 
@@ -37,7 +37,7 @@
 
 ---
 
-### ✅ Week 2: Core Logic + Data
+### Week 2: Core Logic & Data Implementation
 
 **Work Days (Windows):**
 
@@ -56,7 +56,7 @@
 
 ---
 
-### ✅ Week 3: UI Polish + Error Handling
+### Week 3: UI Polish & Error Handling
 
 **Work Days (Windows):**
 
@@ -78,7 +78,7 @@
 
 ---
 
-### ✅ Week 4: Testing + Publishing
+### Week 4: Testing & Publishing
 
 **Work Days (Windows):**
 
@@ -102,8 +102,8 @@
 
 ### 🧾 End of Month 5 Summary:
 
-✅ You’ve built a complete, professional-grade app
-✅ Your GitHub shows a clear portfolio
-✅ You understand the full app lifecycle
-✅ You’re ready for interviews, freelancing, or App Store submission
+- ✅ You’ve built a complete, professional-grade app
+- ✅ Your GitHub shows a clear portfolio
+- ✅ You understand the full app lifecycle
+- ✅ You’re ready for interviews, freelancing, or App Store submission
 
