@@ -1,7 +1,7 @@
 # 📚 iOS & Swift Learning Resources
 
 Curated list of resources I'm using throughout my iOS development journey. Divided by category for easier reference.
-> 💡 This list will be updated monthly as I discover better resources. Pull requests welcome!_
+> 💡 This list will be updated monthly as I discover better resources. Pull requests welcome!
 
 ## 🧠 Core Swift
 
