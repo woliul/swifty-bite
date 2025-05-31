@@ -9,7 +9,7 @@
 
 ---
 
-### Week 1: SwiftUI Basics (Views, Modifiers, Stacks
+### Week 1: SwiftUI Basics (Views, Modifiers, Stacks)
 
 **Work Days (Windows):**
 
