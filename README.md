@@ -22,7 +22,7 @@ Inside you'll find:
 - 📓 Notes, resources, and interview prep  
 - 📈 My personal progress and learnings
 
-## 📚 Table of Contents
+## 📋 Table of Contents
 
 - [Goals](#-goals)
 - [Roadmap](#-roadmap)
