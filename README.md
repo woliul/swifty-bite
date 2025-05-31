@@ -33,6 +33,7 @@ Inside you'll find:
 - [Contribution & Git Standards](#-contribution--git-standards)
 - [About Me](#-about-me)
 - [Community Standards](#-community-standards)
+- [License](#-license)
 
 ## 🧭 Goals
 
