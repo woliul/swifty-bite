@@ -123,7 +123,7 @@ Want to collaborate or share ideas? [Start a discussion](https://github.com/woli
 - 🛠️ [Support & Help](SUPPORT.md)
 - 🔐 [Security Policy](SECURITY.md)
 
-## ⚖️ License
+## 🔰 License
 
 © 2025 [Woliul Hasan](https://github.com/woliul)  
 Released under the [MIT License](./LICENSE).
