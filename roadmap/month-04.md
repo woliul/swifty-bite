@@ -33,7 +33,7 @@
 
 ---
 
-### Week 2: JSON + Decoding Errors
+### Week 2: JSON Decoding & Error Handling
 
 **Work Days (Windows):**
 
@@ -54,7 +54,7 @@
 
 ---
 
-### Week 3: Local Data – UserDefaults & CoreData
+### Week 3: Local Data Storage (UserDefaults & CoreData)
 
 **Work Days (Windows):**
 
@@ -76,7 +76,7 @@
 
 ---
 
-### Week 4: Wrap-up + Refactor
+### Week 4: Wrap-up & Refactor Projects
 
 **Work Days (Windows):**
 
