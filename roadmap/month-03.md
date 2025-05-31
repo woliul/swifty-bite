@@ -89,10 +89,10 @@
 
 ### 🧾 End of Month 3 Summary:
 
-✅ You understand SwiftUI syntax, layout, and logic
-✅ Built 2+ full SwiftUI apps (Quotes, Task Manager, optional Profile)
-✅ Apps include state, navigation, styling
-✅ Your GitHub shows SwiftUI skills
-✅ You’re now ready for async logic (API calls) next month
+- ✅ You understand SwiftUI syntax, layout, and logic
+- ✅ Built 2+ full SwiftUI apps (Quotes, Task Manager, optional Profile)
+- ✅ Apps include state, navigation, styling
+- ✅ Your GitHub shows SwiftUI skills
+- ✅ You’re now ready for async logic (API calls) next month
 
 
