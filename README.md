@@ -79,6 +79,6 @@ This repo follows professional in-house Git practices:
 ## 👋 About Me
 
 This project is maintained by a passionate iOS learner preparing for the job market.  
-Want to collaborate or share ideas? [Start a discussion](https://github.com/woliul/swiftybite/discussions) or open an issue!
+Want to collaborate or share ideas? [Start a discussion](https://github.com/woliul/swifty-bite/discussions) or open an issue!
 
 
