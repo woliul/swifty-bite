@@ -1,0 +1,27 @@
+name: Swift CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-test:
+    runs-on: macos-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Xcode
+      uses: maxim-lobanov/setup-xcode@v1
+      with:
+        xcode-version: '14.3' # Adjust to your target Xcode version
+
+    - name: Build and test
+      run: |
+        xcodebuild clean test \
+          -scheme SwiftyBite \
+          -destination 'platform=iOS Simulator,name=iPhone 14,OS=latest' \
+          ONLY_ACTIVE_ARCH=YES | tee result.log | xcpretty
