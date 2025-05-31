@@ -185,4 +185,71 @@ Even for solo learners, using professional practices:
 
 ---
 
+## 📁 Repository Structure Rules
+
+| Folder             | Purpose                                    |
+| ------------------ | ------------------------------------------ |
+| `/projects/`       | All app projects grouped by month          |
+| `/notes/`          | Markdown notes, cheatsheets, learning logs |
+| `/interview-prep/` | Prep notes, questions, mock tests          |
+| `/assets/`         | Screenshots, diagrams, and visuals         |
+
+Each folder should include a `README.md` to explain its contents.
+
+---
+
+## 🗃️ File Naming & Structure
+
+* Use `kebab-case` for filenames: `to-do-app.md`, `swift-closures.md`
+* Prefer `.md` for notes and documentation
+* Organize notes by **concept**, not by day
+
+  * ✅ `swift-optionals.md`
+  * ❌ `day-04.md`
+
+---
+
+## 📖 Notes Best Practices
+
+* Add learnings **in your own words**
+* Include:
+
+  * 💡 Core concepts
+  * ⚠️ Common pitfalls
+  * ✅ Short examples or code snippets
+* Optional: Add `🤔 Still Confused` sections to revisit later
+
+## 📌 GitHub Best Practices
+
+* Keep `README.md` updated in:
+
+  * Root
+  * `/projects/`
+  * `/notes/`
+  * `/interview-prep/`
+
+* Use public repo to build visibility & professional footprint
+
+* Use GitHub Issues (optional) to track blockers or questions
+
+* Keep commit messages clean — it's your learning history
+
+---
+
+## 🔒 Optional: Private Notes
+
+If needed for job-specific prep or personal observations:
+
+* Create a `/private/` folder in `.gitignore`
+* Or use a private repo for non-public reflections
+
+---
+
+## 🧠 Growth Mindset
+
+* Update notes after you revisit or improve an idea
+* Refactor older projects — reflect new knowledge
+* Be honest in commits: learning is messy, growth is visible
+
+
 Thanks for following best practices! 👨‍💻🍏
