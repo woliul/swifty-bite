@@ -88,8 +88,8 @@ All notes live in `/notes`, organized by topic and project.
 
 I'm preparing for job interviews with:
 
-- [iOS Interview Questions](interview-prep/ios-questions.md)
-- [Swift Coding Challenges](interview-prep/swift-coding-challenges.md)
+- [iOS Interview Questions](#)
+- [Swift Coding Challenges](#)
 
 Future sections will include: data structures, whiteboarding, and behavior questions.
 
