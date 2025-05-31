@@ -7,13 +7,13 @@ Welcome! This guide defines the Git and GitHub best practices followed in this p
 ## 🔖 Table of Contents
 
 1. [Branching Strategy](#-branching-strategy)
-2. [Commit Conventions](#commit-conventions)
-3. [Pull Request Etiquette](#pull-request-etiquette)
-4. [Merge Guidelines](#merge-guidelines)
-5. [Git Workflow Summary](#git-workflow-summary)
-6. [Folder & File Naming](#folder--file-naming)
-7. [README & Documentation](#readme--documentation)
-8. [Common Commands Reference](#common-commands-reference)
+2. [Commit Conventions](#-commit-conventions)
+3. [Pull Request Etiquette](#-pull-request-etiquette)
+4. [Merge Guidelines](#-merge-guidelines)
+5. [Git Workflow Summary](#-git-workflow-summary)
+6. [Folder & File Naming](#-folder--file-naming)
+7. [README & Documentation](#-readme--documentation)
+8. [Common Commands Reference](#-common-commands-reference)
 
 ---
 
