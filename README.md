@@ -81,7 +81,7 @@ This repo follows professional in-house Git practices:
 - ✅ Commit message conventions
 - ✅ Pull request and merge guidelines
 
-> 📄 See [CONTRIBUTING.md](./CONTRIBUTING.md) for full Git & GitHub best practices.
+> 🤝 See [CONTRIBUTING.md](./CONTRIBUTING.md) for full Git & GitHub best practices.
 
 
 
@@ -89,5 +89,14 @@ This repo follows professional in-house Git practices:
 
 This project is maintained by a passionate iOS learner preparing for the job market.  
 Want to collaborate or share ideas? [Start a discussion](https://github.com/woliul/swifty-bite/discussions) or open an issue!
+
+
+## 📄 Community Standards
+
+- 🤝 [Contributing Guidelines](CONTRIBUTING.md)
+- 📜 [Code of Conduct](CODE_OF_CONDUCT.md)
+- 🛠️ [Support & Help](SUPPORT.md)
+- 🔐 [Security Policy](SECURITY.md)
+
 
 
