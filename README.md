@@ -68,9 +68,9 @@ Each month contains weekly tasks, project goals, and outcomes:
 
 Explore apps I'm building throughout the journey:
 
-- 📋 [To-Do App](projects/to-do-app/)
-- 🌦️ [Weather App](projects/weather-app/)
-- 🏁 [Final Capstone App](projects/final-app/)
+- 📋 [To-Do App](#)
+- 🌦️ [Weather App]#)
+- 🏁 [Final Capstone App](#)
 
 > See [`projects/README.md`](projects/README.md) for full project list.
 
@@ -78,8 +78,8 @@ Explore apps I'm building throughout the journey:
 ## 📚 Notes & Resources
 
 - [Helpful Links & Tutorials](docs/RESOURCES.md)
-- [SwiftUI vs UIKit Comparison](notes/swiftui-vs-uikit.md)
-- [MVVM Architecture Explained](notes/mvvm-pattern.md)
+- [SwiftUI vs UIKit Comparison](#)
+- [MVVM Architecture Explained](#)
 
 All notes live in `/notes`, organized by topic and project.
 
