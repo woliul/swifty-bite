@@ -7,9 +7,7 @@
 [![Security](https://img.shields.io/badge/Security-Policy-important)](SECURITY.md)
 [![Support](https://img.shields.io/badge/Support-Get%20Help-blueviolet)](SUPPORT.md)
 
-
-
-**Your Swift/iOS developer journey, one bite at a time.**
+**My Swift/iOS developer journey, one bite at a time.**
 
 Welcome to **SwiftyBite** — a structured 6-month roadmap to become a confident, job-ready Apple developer.  
 Inside you'll find:
@@ -19,6 +17,17 @@ Inside you'll find:
 - 📓 Notes, resources, and interview prep  
 - 📈 My personal progress and learnings
 
+## 📚 Table of Contents
+
+- [Goals](#-goals)
+- [Roadmap](#-roadmap)
+- [Projects](#-projects)
+- [Notes & Resources](#-notes--resources)
+- [Interview Prep](#-interview-prep)
+- [Tools & Stack](#-tools--stack)
+- [Contribution & Git Standards](#-contribution--git-standards)
+- [About Me](#-about-me)
+- [Community Standards](#-community-standards)
 
 ## 🧭 Goals
 
@@ -71,6 +80,16 @@ I'm preparing for job interviews with:
 - [Swift Coding Challenges](interview-prep/swift-coding-challenges.md)
 
 Future sections will include: data structures, whiteboarding, and behavior questions.
+
+## 🛠️ Tools & Stack
+
+This project uses modern tools and workflows across iOS development and GitHub automation:
+
+- **Languages**: Swift 5.8
+- **Frameworks**: SwiftUI, UIKit, Combine
+- **Architecture**: MVVM
+- **Tooling**: Xcode, GitHub Actions
+- **Practices**: Git flow, pull request templates, CI/CD
 
 
 ## 📌 Contribution & Git Standards
