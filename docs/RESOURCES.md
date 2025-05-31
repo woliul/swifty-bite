@@ -59,7 +59,7 @@ Curated list of resources I'm using throughout my iOS development journey. Divid
 * [Udemy: iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) — Beginner-friendly, project-based Swift and UIKit
 * [CS193p - Stanford (SwiftUI)](https://cs193p.sites.stanford.edu/) — Deep dive into SwiftUI and Apple best practices
 * [Hacking with Swift+ Projects](https://www.hackingwithswift.com/plus) — Hands-on projects with Swift and SwiftUI
-* [Mastering Swift (Udemy)](https://www.udemy.com/course/mastering-swift/) — Advanced Swift concepts and practical application
+* [Mastering Swift (Udemy)](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift) — Advanced Swift concepts and practical application
 * [Ray Wenderlich iOS & Swift Path](https://www.kodeco.com/paths/ios) — Comprehensive and up-to-date iOS and Swift tutorials from beginner to advanced
 * [SwiftUI Masterclass (Udemy)](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) — Master building complex apps with SwiftUI
 
