@@ -69,7 +69,7 @@ Each month contains weekly tasks, project goals, and outcomes:
 Explore apps I'm building throughout the journey:
 
 - 📋 [To-Do App](#)
-- 🌦️ [Weather App]#)
+- 🌦️ [Weather App](#)
 - 🏁 [Final Capstone App](#)
 
 > See [`projects/README.md`](projects/README.md) for full project list.
