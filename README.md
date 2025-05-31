@@ -7,6 +7,11 @@
 [![Security](https://img.shields.io/badge/Security-Policy-important)](SECURITY.md)
 [![Support](https://img.shields.io/badge/Support-Get%20Help-blueviolet)](SUPPORT.md)
 
+[![Repo Size](https://img.shields.io/github/repo-size/woliul/swifty-bite)](https://github.com/woliul/swifty-bite)
+[![Last Commit](https://img.shields.io/github/last-commit/woliul/swifty-bite)](https://github.com/woliul/swifty-bite/commits/main)
+[![Issues](https://img.shields.io/github/issues/woliul/swifty-bite)](https://github.com/woliul/swifty-bite/issues)
+[![Stars](https://img.shields.io/github/stars/woliul/swifty-bite)](https://github.com/woliul/swifty-bite/stargazers)
+
 **My Swift/iOS developer journey, one bite at a time.**
 
 Welcome to **SwiftyBite** — a structured 6-month roadmap to become a confident, job-ready Apple developer.  
