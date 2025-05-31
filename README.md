@@ -131,7 +131,6 @@ Want to collaborate or share ideas? [Start a discussion](https://github.com/woli
 
 ## 🔰 License
 
-© 2025 [Woliul Hasan](https://github.com/woliul)  
-Released under the [MIT License](./LICENSE).
+© 2025 [Woliul Hasan](https://github.com/woliul) Released under the [MIT License](./LICENSE).
 
 
