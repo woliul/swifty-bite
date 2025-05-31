@@ -2,7 +2,7 @@
 
 Welcome! This guide defines the Git and GitHub best practices followed in this project. These standards simulate an in-house team environment, ensuring code quality, collaboration readiness, and traceable progress — even for a solo learner.
 
----
+
 
 ## 🔖 Table of Contents
 
@@ -15,7 +15,7 @@ Welcome! This guide defines the Git and GitHub best practices followed in this p
 7. [README & Documentation](#-readme--documentation)
 8. [Common Commands Reference](#-common-commands-reference)
 
----
+
 
 ## 🌿 Branching Strategy
 
@@ -40,7 +40,7 @@ Examples:
 
 > 💡 Always create a new branch for any non-trivial work.
 
----
+
 
 ## ✅ Commit Conventions
 
@@ -64,7 +64,7 @@ Use **conventional commits** for clarity and structured history.
 - `fix(api): handle empty response from endpoint`
 - `docs(notes): restructure README with learning path`
 
----
+
 
 ## 🚀 Pull Request Etiquette
 
@@ -79,7 +79,7 @@ When using GitHub PRs (now or in future teams):
 
 > Solo dev? Use PRs as changelogs, or to review before merging.
 
----
+
 
 ## 🔀 Merge Guidelines
 
@@ -100,7 +100,7 @@ git checkout main
 git merge --squash feature/my-feature
 ````
 
----
+
 
 ## 📌 Git Workflow Summary
 
@@ -122,7 +122,7 @@ git push origin feature/new-uikit-app
 Use `git stash` if switching branches mid-work.
 Commit often, push daily.
 
----
+
 
 ## 📁 Folder & File Naming
 
@@ -130,7 +130,7 @@ Commit often, push daily.
 * Avoid vague names like `test.swift` or `notes.md`
 * Use date prefixes if helpful: `2025-06-10-uikit-overview.md`
 
----
+
 
 ## 📘 README & Documentation
 
@@ -150,7 +150,7 @@ This folder contains concept-wise Swift and iOS notes, organized by topics and p
 ✅ Use this as a quick reference for future review or interviews.
 ```
 
----
+
 
 ## 🧠 Common Commands Reference
 
@@ -173,7 +173,7 @@ git checkout main
 git merge --squash feature/app-logic
 ```
 
----
+
 
 ## 🧭 Future-Proofing
 
@@ -183,7 +183,7 @@ Even for solo learners, using professional practices:
 * Builds habits useful in actual dev teams
 * Makes it easier to share, expand, or collaborate in future
 
----
+
 
 ## 📁 Repository Structure Rules
 
@@ -196,7 +196,7 @@ Even for solo learners, using professional practices:
 
 Each folder should include a `README.md` to explain its contents.
 
----
+
 
 ## 🗃️ File Naming & Structure
 
@@ -207,7 +207,7 @@ Each folder should include a `README.md` to explain its contents.
   * ✅ `swift-optionals.md`
   * ❌ `day-04.md`
 
----
+
 
 ## 📖 Notes Best Practices
 
@@ -234,7 +234,7 @@ Each folder should include a `README.md` to explain its contents.
 
 * Keep commit messages clean — it's your learning history
 
----
+
 
 ## 🔒 Optional: Private Notes
 
@@ -243,7 +243,7 @@ If needed for job-specific prep or personal observations:
 * Create a `/private/` folder in `.gitignore`
 * Or use a private repo for non-public reflections
 
----
+
 
 ## 🧠 Growth Mindset
 
