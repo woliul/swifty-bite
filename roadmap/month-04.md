@@ -9,7 +9,7 @@
 
 ---
 
-### ✅ Week 1: API Basics + Async/Await
+### Week 1: API Basics + Async/Await
 
 **Work Days (Windows):**
 
@@ -33,7 +33,7 @@
 
 ---
 
-### ✅ Week 2: JSON + Decoding Errors
+### Week 2: JSON + Decoding Errors
 
 **Work Days (Windows):**
 
@@ -54,7 +54,7 @@
 
 ---
 
-### ✅ Week 3: Local Data – UserDefaults & CoreData
+### Week 3: Local Data – UserDefaults & CoreData
 
 **Work Days (Windows):**
 
@@ -76,7 +76,7 @@
 
 ---
 
-### ✅ Week 4: Wrap-up + Refactor
+### Week 4: Wrap-up + Refactor
 
 **Work Days (Windows):**
 
@@ -96,8 +96,8 @@
 
 ### 🧾 End of Month 4 Summary:
 
-✅ You can fetch real-time data from APIs
-✅ You understand async/await, error handling, Codable
-✅ You can store user data locally with UserDefaults or CoreData
-✅ GitHub has at least 2–3 data-driven apps
-✅ You’re ready for a larger project + job portfolio building next month
+- ✅ You can fetch real-time data from APIs
+- ✅ You understand async/await, error handling, Codable
+- ✅ You can store user data locally with UserDefaults or CoreData
+- ✅ GitHub has at least 2–3 data-driven apps
+- ✅ You’re ready for a larger project + job portfolio building next month
