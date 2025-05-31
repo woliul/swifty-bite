@@ -9,7 +9,7 @@
 
 ---
 
-### ✅ Week 1: Portfolio & Resume Polish
+### Week 1: Portfolio & Resume Polish
 
 **Work Days (Windows):**
 
@@ -37,7 +37,7 @@
 
 ---
 
-### ✅ Week 2: Interview Prep (iOS Focus)
+### ✅ Week 2: Interview Preparation
 
 **Work Days (Windows):**
 
@@ -60,7 +60,7 @@
 
 ---
 
-### ✅ Week 3: Job Hunt + Freelance
+### ✅ Week 3: Job Applications & Freelance Setup
 
 **Work Days (Windows):**
 
@@ -80,7 +80,7 @@
 
 ---
 
-### ✅ Week 4: Real-World Trial + Learning Loop
+### ✅ Week 4: Real-World Practice & Continued Learning
 
 **Work Days (Windows):**
 
