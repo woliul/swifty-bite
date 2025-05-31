@@ -81,7 +81,7 @@ I'm preparing for job interviews with:
 
 Future sections will include: data structures, whiteboarding, and behavior questions.
 
-## 🧰 Tools & Stack
+## [🛠️ Tools & Stack](#-tools--stack)
 
 This project uses modern tools and workflows across iOS development and GitHub automation:
 
@@ -119,8 +119,7 @@ Want to collaborate or share ideas? [Start a discussion](https://github.com/woli
 
 ## ⚖️ License
 
-This project is licensed under the [MIT License](./LICENSE).
-
-© 2025 [Woliul Hasan](https://github.com/woliul) – All rights reserved.
+© 2025 [Woliul Hasan](https://github.com/woliul)  
+Released under the [MIT License](./LICENSE).
 
 
