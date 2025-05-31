@@ -14,8 +14,8 @@ If you discover a security vulnerability — especially in automation, GitHub Ac
 
 ### 📬 Contact
 
-**Email:** [Contact Support](mailto:woliul@gmail.com)  
-**Subject Line:** "SwiftyBite – Security Issue"
+**Support:** [Report Vulnerability](https://github.com/woliul/swifty-bite/security/advisories)  
+
 
 We will investigate and respond within 7 days.
 
