@@ -13,7 +13,7 @@ Welcome to **SwiftyBite** — a structured 6-month journey to become a confident
 
 ## 🧭 Goals
 
-Check out [GOALS.md](GOALS.md) for a full breakdown of skills I aim to master and my motivation for this journey.
+Check out [GOALS.md](docs/GOALS.md) for a full breakdown of skills I aim to master and my motivation for this journey.
 
 ---
 
@@ -45,7 +45,7 @@ See `/projects` for apps I'm building along the way.
 
 ## 📚 Notes & Resources
 
-- [Helpful Links & Tutorials](RESOURCES.md)
+- [Helpful Links & Tutorials](docs/RESOURCES.md)
 - [SwiftUI vs UIKit Comparison](notes/swiftui-vs-uikit.md)
 - [MVVM Architecture Explained](notes/mvvm-pattern.md)
 
