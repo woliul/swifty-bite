@@ -1,10 +1,10 @@
 ## Table of Contents
 
 ### Month 1: Basics & Swift Fundamentals
-- [Week 1: Introduction to Swift](./roadmap/month-01.md./roadmap/month-01.md#week-1-introduction-to-swift)  
-- [Week 2: Swift Syntax & Control Flow](./roadmap/month-01.md./roadmap/month-01.md#week-2-swift-syntax--control-flow)  
-- [Week 3: Functions, Closures & Optionals](./roadmap/month-01.md./roadmap/month-01.md#week-3-functions-closures--optionals)  
-- [Week 4: Collections & Error Handling](./roadmap/month-01.md./roadmap/month-01.md#week-4-collections--error-handling)  
+- [Week 1: Introduction to Swift](./roadmap/month-01.md#week-1-introduction-to-swift)  
+- [Week 2: Swift Syntax & Control Flow](./roadmap/month-01.md#week-2-swift-syntax--control-flow)  
+- [Week 3: Functions, Closures & Optionals](./roadmap/month-01.md#week-3-functions-closures--optionals)  
+- [Week 4: Collections & Error Handling](./roadmap/month-01.md#week-4-collections--error-handling)  
 
 ### Month 2: UIKit + Swift Fundamentals Deep Dive
 - [Week 1: UIKit Basics (Views, ViewControllers)](./roadmap/month-01.md#week-1-uikit-basics-views-viewcontrollers)  
