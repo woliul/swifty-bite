@@ -1,5 +1,13 @@
 # SwiftyBite 🐦🍏 [![Git Standards](https://img.shields.io/badge/Git%20Workflow-Professional-blue)](./CONTRIBUTING.md)
 
+[![Swift Version](https://img.shields.io/badge/Swift-5.8-orange.svg)](https://swift.org)
+[![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20macOS-blue.svg)](https://developer.apple.com)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/woliul/swifty-bite/ci.yml?branch=main&label=CI)](https://github.com/woliul/swifty-bite/actions)
+[![UIKit Ready](https://img.shields.io/badge/UIKit-Ready-blue.svg)](https://developer.apple.com/documentation/uikit)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-Implemented-brightgreen.svg)](https://developer.apple.com/xcode/swiftui/)
+
+
 **Your Swift/iOS developer journey, one bite at a time.**
 
 Welcome to **SwiftyBite** — a structured 6-month roadmap to become a confident, job-ready Apple developer.  
