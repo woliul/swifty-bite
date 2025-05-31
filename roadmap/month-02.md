@@ -6,7 +6,7 @@
 * Learn how to structure an app (MVC)
 * Build at least 2 more apps
 * Start using GitHub consistently
-
+--- 
 ### Week 1: UIKit Basics (Views, ViewControllers)
 
 - **Work Days (Windows):**
@@ -23,7 +23,7 @@
      * Use stack views, colors, fonts, AutoLayout
    * 🎯 Goal: Design a real-looking screen with UIKit
 
-
+--- 
 ### Week 2: AutoLayout & Storyboards
 
 - **Work Days (Windows):**
@@ -42,7 +42,7 @@
   * ✅ Push app to GitHub
 
 
-
+--- 
 ### Week 3: Navigation Controllers & TableViews
 
 - **Work Days (Windows):**
@@ -59,7 +59,7 @@
     * Passing data between screens
   * 💡 Optional: Create a new simple **Quiz App** with multiple screens
 
-
+--- 
 ### Week 4: Networking Basics & Git Practice
 
 - **Work Days (Windows):**
@@ -75,7 +75,7 @@
   * 🗂 Organize your GitHub with READMEs and screenshots
   * 🧪 Try adding a basic test using `XCTest` (optional)
 
-
+---
 ## 🧾 End of Month 2 Summary:
 
 - ✅ Comfortable with UIKit views, tables, and navigation
