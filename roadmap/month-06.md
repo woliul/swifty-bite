@@ -37,7 +37,7 @@
 
 ---
 
-### ✅ Week 2: Interview Preparation
+### Week 2: Interview Preparation
 
 **Work Days (Windows):**
 
@@ -60,7 +60,7 @@
 
 ---
 
-### ✅ Week 3: Job Applications & Freelance Setup
+### Week 3: Job Applications & Freelance Setup
 
 **Work Days (Windows):**
 
@@ -80,7 +80,7 @@
 
 ---
 
-### ✅ Week 4: Real-World Practice & Continued Learning
+### Week 4: Real-World Practice & Continued Learning
 
 **Work Days (Windows):**
 
