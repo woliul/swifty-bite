@@ -6,7 +6,7 @@ Welcome! This guide defines the Git and GitHub best practices followed in this p
 
 ## 🔖 Table of Contents
 
-1. [Branching Strategy](#branching-strategy)
+1. [Branching Strategy](#-branching-strategy)
 2. [Commit Conventions](#commit-conventions)
 3. [Pull Request Etiquette](#pull-request-etiquette)
 4. [Merge Guidelines](#merge-guidelines)
