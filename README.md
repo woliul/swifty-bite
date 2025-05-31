@@ -81,7 +81,7 @@ I'm preparing for job interviews with:
 
 Future sections will include: data structures, whiteboarding, and behavior questions.
 
-## 🎯 Tools & Stack
+## 🧰 Tools & Stack
 
 This project uses modern tools and workflows across iOS development and GitHub automation:
 
