@@ -1,6 +1,6 @@
 # 📚 iOS & Swift Learning Resources
 
-Curated list of resources I'm using throughout my iOS development journey. Divided by category for easier reference.
+Curated list of resources I'm using throughout my iOS development journey. Divided by category for easier reference.  
 > 💡 This list will be updated monthly as I discover better resources. Pull requests welcome!
 
 ## 🧠 Core Swift
@@ -56,9 +56,19 @@ Curated list of resources I'm using throughout my iOS development journey. Divid
 
 ## 🧑‍💻 Recommended Courses
 
-- [Udemy: iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
-- [CS193p - Stanford (SwiftUI)](https://cs193p.sites.stanford.edu/)
-- [Hacking with Swift+ Projects](https://www.hackingwithswift.com/plus)
+* [Udemy: iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) — Beginner-friendly, project-based Swift and UIKit
+* [CS193p - Stanford (SwiftUI)](https://cs193p.sites.stanford.edu/) — Deep dive into SwiftUI and Apple best practices
+* [Hacking with Swift+ Projects](https://www.hackingwithswift.com/plus) — Hands-on projects with Swift and SwiftUI
+* [Mastering Swift (Udemy)](https://www.udemy.com/course/mastering-swift/) — Advanced Swift concepts and practical application
+* [Ray Wenderlich iOS & Swift Path](https://www.kodeco.com/paths/ios) — Comprehensive and up-to-date iOS and Swift tutorials from beginner to advanced
+* [SwiftUI Masterclass (Udemy)](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) — Master building complex apps with SwiftUI
+
+### Architecture, Concurrency & Testing
+
+* [Ray Wenderlich: iOS Architecture Patterns](https://www.kodeco.com/10007045-ios-architecture-patterns) — Learn MVC, MVVM, VIPER, and Clean Architecture
+* [Swift Concurrency by Paul Hudson](https://www.hackingwithswift.com/quick-start/concurrency) — Modern async/await patterns in Swift
+* [Unit Testing in Swift (Udemy)](https://www.udemy.com/course/ios-unit-testing/) — Learn XCTest and writing maintainable tests for iOS apps
+* [Combine Framework by Ray Wenderlich](https://www.kodeco.com/4161005-combine-getting-started) — Reactive programming essentials for iOS developers
 
 ## 📺 YouTube Channels
 
@@ -68,11 +78,10 @@ Curated list of resources I'm using throughout my iOS development journey. Divid
 
 ## 📘 Books (Optional but solid)
 
-- _iOS Programming: The Big Nerd Ranch Guide_  
-- _SwiftUI for Masterminds_  
-- _Pro Swift_ by Paul Hudson  
-- _Design Patterns by Tutorials_ (Kodeco)
----
+- [_iOS Programming: The Big Nerd Ranch Guide_](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-sixth-edition/) — Great for learning UIKit fundamentals  
+- [_SwiftUI for Masterminds_](https://www.lawrencelundgren.com/swiftui-for-masterminds-2nd-edition/) — Comprehensive SwiftUI guide  
+- [_Pro Swift_ by Paul Hudson](https://www.hackingwithswift.com/store/pro-swift) — Deep dive into advanced Swift topics  
+- [_Design Patterns by Tutorials_ (Kodeco)](https://www.kodeco.com/books/design-patterns-by-tutorials) — Practical architectural patterns for iOS
 
 ## ♿ Accessibility & Localization
 
@@ -106,12 +115,16 @@ Curated list of resources I'm using throughout my iOS development journey. Divid
 - [Swift Generics & Advanced Types](https://docs.swift.org/swift-book/LanguageGuide/Generics.html)
 - [Swift Concurrency (Async/Await) Docs](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html)
 
+## 🛠 Tools & Utilities
+
+- [SwiftLint](https://github.com/realm/SwiftLint) — Enforce Swift style and conventions  
+- [Charles Proxy](https://www.charlesproxy.com/) — HTTP debugging proxy for network traffic inspection  
+- [Postman](https://www.postman.com/) — API testing and development tool  
+- [AppCode (JetBrains)](https://www.jetbrains.com/objc/) — Alternative IDE for iOS/macOS development (optional)  
+
 ## 🌐 Community & Forums
 
 - [Apple Developer Forums](https://developer.apple.com/forums/)
 - [Swift Forums](https://forums.swift.org/)
 - [Stack Overflow: swift & ios tags](https://stackoverflow.com/questions/tagged/swift)
-
-
-
 
