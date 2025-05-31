@@ -1,4 +1,4 @@
-# SwiftyBite 🐦🍏 [![Git Standards](https://img.shields.io/badge/Git%20Workflow-Professional-blue)](./CONTRIBUTING.md) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/woliul/swifty-bite/ci.yml?branch=main&label=CI)](https://github.com/woliul/swifty-bite/actions) [![Swift Version](https://img.shields.io/badge/Swift-6.1-F54A2A?logo=swift&logoColor=white)](https://swift.org)
+# SwiftyBite 🐦🍏 [![Git Standards](https://img.shields.io/badge/Git%20Workflow-Professional-blue)](./CONTRIBUTING.md) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/woliul/swifty-bite/ci.yml?branch=main&label=CI)](https://github.com/woliul/swifty-bite/actions) [![Swift Version](https://img.shields.io/badge/Swift-6.1-F54A2A?logo=swift&logoColor=white)](https://swift.org) [![SwiftUI](https://img.shields.io/badge/SwiftUI-Implemented-00A3FE?logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/) [![UIKit Ready](https://img.shields.io/badge/UIKit-Ready-blue.svg)](https://developer.apple.com/documentation/uikit) [![Platform](https://img.shields.io/badge/Platform-Apple%20Ecosystem-blue?logo=apple)](https://developer.apple.com)
 
 [![Repo Size](https://img.shields.io/github/repo-size/woliul/swifty-bite)](https://github.com/woliul/swifty-bite)
 [![Last Commit](https://img.shields.io/github/last-commit/woliul/swifty-bite)](https://github.com/woliul/swifty-bite/commits/main)
@@ -10,10 +10,7 @@
 [![Security](https://img.shields.io/badge/Security-Policy-important)](SECURITY.md)
 [![Support](https://img.shields.io/badge/Support-Get%20Help-blueviolet)](SUPPORT.md)
 
-[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-Implemented-00A3FE?logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
-[![UIKit Ready](https://img.shields.io/badge/UIKit-Ready-blue.svg)](https://developer.apple.com/documentation/uikit)
-[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20iPadOS%20%7C%20macOS%20%7C%20watchOS%20%7C%20tvOS%20%7C%20visionOS-blue?logo=apple&logoColor=white.svg)](https://developer.apple.com)
+
 
 
 **My Swift/iOS developer journey, one bite at a time.**
