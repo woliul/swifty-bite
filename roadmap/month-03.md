@@ -9,7 +9,7 @@
 
 ---
 
-### ✅ Week 1: SwiftUI Basics (Views, Modifiers, Stacks
+### Week 1: SwiftUI Basics (Views, Modifiers, Stacks
 
 **Work Days (Windows):**
 
@@ -31,7 +31,7 @@
 
 ---
 
-### ✅ Week 2: State Management (@State, @Binding)
+### Week 2: State Management (@State, @Binding)
 
 **Work Days (Windows):**
 
@@ -49,7 +49,7 @@
 
 ---
 
-### ✅ Week 3: Navigation & Reusable Components
+### Week 3: Navigation & Reusable Components
 
 **Work Days (Windows):**
 
@@ -68,7 +68,7 @@
 
 ---
 
-### ✅ Week 4: Animations & Polishing
+### Week 4: Animations & Polishing
 
 **Work Days (Windows):**
 
