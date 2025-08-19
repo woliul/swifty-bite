@@ -25,17 +25,25 @@ jobs:
               return `${year}-${month}-${day}`;
             }
 
+            // Define your custom start date
+            const customStartDate = new Date('2025-05-30T00:00:00Z');
             const now = new Date();
-            const weekNumber = Math.ceil(((now - new Date(now.getFullYear(), 0, 1)) / 86400000 + now.getDay() + 1) / 7);
-            const issueTitle = `[Progress] Week ${weekNumber}:`;
-
-            // Calculate the start and end dates of the current week (Monday to Sunday)
-            const today = new Date();
-            const dayOfWeek = today.getDay(); // 0 for Sunday, 1 for Monday, etc.
-            const diff = today.getDate() - dayOfWeek + (dayOfWeek === 0 ? -6 : 1); // Adjust for Monday start
             
-            const startOfWeek = new Date(today.setDate(diff));
-            const endOfWeek = new Date(today.setDate(diff + 6));
+            // Calculate the difference in days from the custom start date
+            const diffInMilliseconds = now - customStartDate;
+            const diffInDays = Math.floor(diffInMilliseconds / (1000 * 60 * 60 * 24));
+            
+            // Calculate the custom week number
+            const customWeekNumber = Math.floor(diffInDays / 7) + 1;
+            
+            const issueTitle = `[Progress] Week ${customWeekNumber}:`;
+
+            // Calculate the start and end dates of the current week relative to the custom start date
+            const weeksSinceStart = Math.floor(diffInDays / 7);
+            const startOfWeekOffset = weeksSinceStart * 7;
+            
+            const startOfWeek = new Date(customStartDate.getTime() + startOfWeekOffset * 1000 * 60 * 60 * 24);
+            const endOfWeek = new Date(startOfWeek.getTime() + 6 * 1000 * 60 * 60 * 24);
             
             const startDate = formatDate(startOfWeek);
             const endDate = formatDate(endOfWeek);
