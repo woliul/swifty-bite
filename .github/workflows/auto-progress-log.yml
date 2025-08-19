@@ -2,11 +2,11 @@ name: Weekly Progress Issue
 
 on:
   schedule:
-    - cron: '0 9 * * 1'  # Every Monday at 9 AM UTC
+    - cron: '0 3 * * 1'  # Every Monday at 9 AM GMT+6 (which is 3 AM UTC)
   workflow_dispatch:
 
 permissions:
-  issues: write  # <-- This is required to create issues
+  issues: write
 
 jobs:
   create-issue:
@@ -17,10 +17,30 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
+            // Function to format the date as YYYY-MM-DD
+            function formatDate(date) {
+              const year = date.getFullYear();
+              const month = String(date.getMonth() + 1).padStart(2, '0');
+              const day = String(date.getDate()).padStart(2, '0');
+              return `${year}-${month}-${day}`;
+            }
+
             const now = new Date();
             const weekNumber = Math.ceil(((now - new Date(now.getFullYear(), 0, 1)) / 86400000 + now.getDay() + 1) / 7);
             const issueTitle = `[Progress] Week ${weekNumber}:`;
-            const issueBody = `### 📘 Weekly Progress Log\n\n- **Date Range**: \n- **✅ What I Learned**:\n- **🔧 What I Built**:\n- **🎯 What’s Next**:\n`;
+
+            // Calculate the start and end dates of the current week (Monday to Sunday)
+            const today = new Date();
+            const dayOfWeek = today.getDay(); // 0 for Sunday, 1 for Monday, etc.
+            const diff = today.getDate() - dayOfWeek + (dayOfWeek === 0 ? -6 : 1); // Adjust for Monday start
+            
+            const startOfWeek = new Date(today.setDate(diff));
+            const endOfWeek = new Date(today.setDate(diff + 6));
+            
+            const startDate = formatDate(startOfWeek);
+            const endDate = formatDate(endOfWeek);
+
+            const issueBody = `### 📘 Weekly Progress Log\n\n- **Date Range**: ${startDate} to ${endDate}\n- **✅ What I Learned**:\n- **🔧 What I Built**:\n- **🎯 What’s Next**:\n`;
 
             const res = await github.rest.issues.create({
               owner: context.repo.owner,
